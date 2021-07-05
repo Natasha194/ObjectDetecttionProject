@@ -1,0 +1,19 @@
+button {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    width: 30%;
+    font-size: 20px;
+}
+a {
+    color: black;
+}
+
+.btn {
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: red;
+}
